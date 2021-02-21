@@ -843,3 +843,6 @@ See also: #456, #789
 
 <img src="README.assets/image-20210218195957910.png" alt="image-20210218195957910" style="zoom:67%;" />
 
+# 시연영상
+
+- https://youtu.be/xcw8BY_VGmU
